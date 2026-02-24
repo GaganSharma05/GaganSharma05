@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GaganSharma05
 - 👀 I’m interested in flutter, firebase, Data engineering, Data Science, Python  and libraries like Scikit, Matplotlib, Pandas, Tensorflows
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m developing multi agentic AI platform
 - 💞️ I’m looking to collaborate on Data Science
 - 📫 Mail me on gagan_sh@outlook.com
 
